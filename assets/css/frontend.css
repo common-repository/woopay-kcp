@@ -1,0 +1,33 @@
+/* Planet8 General */
+.p8-checkout-img {
+	text-align: center;
+	width: 100%;
+}
+
+.p8-checkout-img img {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.p8-checkout-txt {
+	text-align: center;
+	width: 100%;
+}
+
+.p8-chrome-msg {
+	padding-top: 20px;
+	text-align: center;
+	width: 100%;
+}
+
+/* Payment Gateway Dependent */
+#kcp_background {
+	position:absolute;
+	background: #f4f4f4;
+	left:0px;
+	top:0px;
+	width:100%;
+	height:100%;
+	z-index:99998;
+	display:none;
+}
